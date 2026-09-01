@@ -2,6 +2,6 @@
 #define PINS_H
 
 #define SSR_RELAY_PIN       16
-#define TEMP_SENSOR_PIN     12
+#define TEMP_SENSOR_PIN     12 //D6
 
 #endif
